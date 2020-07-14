@@ -1,0 +1,22 @@
+#main-content{
+	height: 3000px;
+	background-color: pink;
+}
+#content-title{
+	text-align: center;
+	text-decoration: bold;
+	font-size: 40px;
+}
+.menu-navber-item{
+	text-align: center;
+}
+#text-desc{
+	color: black;
+	font-weight: bold;
+}
+#nav-items-open{
+	background-color: #d0d0e1;
+}
+li:hover {
+  background-color: yellow;
+}
