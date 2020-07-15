@@ -1,9 +1,36 @@
+*{ 
+	margin: 0px;
+	padding: 0px;
+}
+body {
+  font-size: 16px;
+}
+.navbar-brand h1{
+	color: black;
+  margin: auto;
+   padding: 15px 0;
+   font-size: 1.5em;
+}
+a.navbar-brand{
+	height: 60px;
+	padding: 0px 15px;
+}
+.navbar-toggle{
+	margin-top: 15px;
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: black;
+}
+#collapse-nav-items{
+	margin: 10px;
+}
 #main-content{
 	height: 3000px;
 	background-color: pink;
+	margin: 20px;
 }
 #content-title{
-	text-align: center;
+	
 	text-decoration: bold;
 	font-size: 40px;
 }
@@ -18,5 +45,6 @@
 	background-color: #d0d0e1;
 }
 li:hover {
-  background-color: yellow;
+  background-color: #efeff5;
+
 }
