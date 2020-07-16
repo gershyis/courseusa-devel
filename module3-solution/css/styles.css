@@ -22,9 +22,7 @@ a.navbar-brand{
 .navbar-default .navbar-toggle .icon-bar{
 	background-color: black;
 }
-#collapse-nav-items{
-	margin: 10px;
-}
+
 #main-content{
 	height: 3000px;
 	background-color: pink;
